@@ -1,2 +1,0 @@
-# SoluLabApp
-#Solulab App Design
